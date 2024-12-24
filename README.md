@@ -2,7 +2,7 @@
 
 Welcome to the **Generative AI Glossary**, a comprehensive and organized repository of terms, concepts, and tools related to generative artificial intelligence. This glossary serves as a one-stop resource for anyone looking to learn more about the terminology used in this rapidly growing field.
 
----
+----
 
 ## 📑 Table of Contents
 Below is the list of categories and subcategories in the glossary. Click on each link to explore the related markdown files:
