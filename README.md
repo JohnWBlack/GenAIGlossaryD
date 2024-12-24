@@ -49,7 +49,7 @@ Below is the list of categories and subcategories in the glossary. Click on each
   - Multimodal Generative Models
   - Advanced Embedding
 
-For a full visualization of the glossary structure, check out our [mind map](resources/mind_map.png).
+For a full visualization of the glossary structure, check out our [mind map](resources/Generative_AI_Glossary_v1.16.png).
 
 ---
 
